@@ -1,2 +1,3 @@
 # gitskills
-add a new branch test.
+now i add a new branch for git.
+
