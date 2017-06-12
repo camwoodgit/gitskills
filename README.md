@@ -1,2 +1,2 @@
 # gitskills
-now i add a new branch for git.
+now i add new branch for git.
